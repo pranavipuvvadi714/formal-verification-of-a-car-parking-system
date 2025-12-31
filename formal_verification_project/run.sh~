@@ -1,0 +1,2 @@
+#!/bin/sh 
+jg alu_8bit.tcl

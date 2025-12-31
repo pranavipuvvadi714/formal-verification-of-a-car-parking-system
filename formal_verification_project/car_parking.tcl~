@@ -1,0 +1,7 @@
+clear -all
+
+analyze -sv09 alu_8bit.v
+elaborate -top alu_8bit
+
+clock clk
+reset ~rst_n
